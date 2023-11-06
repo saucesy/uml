@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T16:32:17.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" version="22.0.8" etag="1sqa2K5BB4MnWYhWkQuO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T16:34:50.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="SJOHSpdwZjnwqV5oLPCZ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="FtXINRYp-OkEZqKzp7Nr">
-    <mxGraphModel>
+    <mxGraphModel dx="986" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfFCWOUNuMkLb45A4qGw-1" target="RfFCWOUNuMkLb45A4qGw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-10" value="管理员未登录系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfFCWOUNuMkLb45A4qGw-6">
+          <mxGeometry x="-0.1167" y="-2" relative="1" as="geometry">
+            <mxPoint x="-5" y="-37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfFCWOUNuMkLb45A4qGw-2" target="RfFCWOUNuMkLb45A4qGw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-11" value="管理员登录系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfFCWOUNuMkLb45A4qGw-7">
+          <mxGeometry x="0.0095" y="-3" relative="1" as="geometry">
+            <mxPoint x="1" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-2" value="未登录状态" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="270" y="185" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RfFCWOUNuMkLb45A4qGw-3" target="RfFCWOUNuMkLb45A4qGw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-12" value="管理员退出系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RfFCWOUNuMkLb45A4qGw-8">
+          <mxGeometry x="0.1111" y="-2" relative="1" as="geometry">
+            <mxPoint y="-36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-3" value="操作状态" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="480" y="185" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RfFCWOUNuMkLb45A4qGw-4" target="RfFCWOUNuMkLb45A4qGw-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-4" value="退出状态" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="185" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RfFCWOUNuMkLb45A4qGw-5" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+          <mxGeometry x="900" y="190" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
